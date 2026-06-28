@@ -29,6 +29,6 @@ promql-запросы для выдачи метрик:
 
 ## Задание 4
 
-![dashboard.json](dashboard.json)
+[dashboard.json](dashboard.json)
 
 ---
